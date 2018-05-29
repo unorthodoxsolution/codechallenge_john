@@ -1,18 +1,20 @@
 Hello,
 
-Thank you for your interest in our Agric Web Project. As sent to you, we would love to see your abilities in the form of code. For this, I have put together a code challenge that reflects a task you would be given if hired. Please see below for instructions on how to get started.
+Thank you for your interest in our Web Project Opportunity. As sent to you, we would love to see your abilities in the form of code. For this, I have put together a code challenge that reflects a task you would be given if hired. Please see below for instructions on how to get started.
 
 A little high-level context about the task.
 
-Create a login system that authenticates users with their google account or facebook account.
+1. Create a login system that authenticates users with their google account or facebook account using GOOGLE Public API or Facebook Public API
 
-In our legacy system, we have an order log page that provides a high-level view of order activity. Administrators can quickly filter for date range, customers, and other info. They can see status, requestor, amounts, account status, and other info in an easy-to-read list. Clicking on the ClientID# will take them to the order details (out of scope for this project).
+2. In our legacy system, we have an order log page that provides a high-level view of order activity. Administrators can quickly filter for date range, customers, and other info. They can see status, requestor, amounts, account status, and other info in an easy-to-read list. Clicking on the ClientID# will take them to the order details (out of scope for this project).
 
 The view should clearly display (Customer, Order Number, Quantity, Reference NO, Order Date, Requester, Total, Order Status, Order Type). Along, providing an intuitive way to filter results by client and order date. The result set should also be sortable.
 
+NB: Angular JS or PHP
+
 Bonus: Sorts and filters are retained when the user refreshes.
 
-I have created a repository containing an angular application generated via angular cli. Please view readme for further instructions.
+I have created a repository containing an angular application generated via angular cli.
 
 Feel free email me if you have any questions.
 
